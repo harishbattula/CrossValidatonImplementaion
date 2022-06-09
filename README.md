@@ -1,4 +1,4 @@
-# Trian-Test-Split
+# About this repo
 Splitting Dataset for k fold cross validation from scratch using NumPy and Python.
 
 # Stratified split: 
