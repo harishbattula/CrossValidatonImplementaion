@@ -1,4 +1,4 @@
-# Stratified split: 
+## Stratified split: 
     1. It is way of splitting dataset into subsets such that each subset has same distribution of classes.
     2. For suppose let's say we have a dataset of 100 samples having 35 yes's and 65 no's as a targer values, 
         and let's say we want to divide dataset into 5 subsets.
@@ -9,8 +9,8 @@
     5. To avoid this we use stratified splitting technique.
     6. We can split given dataset into into 5 equally distributed target subsets.
     7. e.g (7, 13), (7, 13), (7, 13), (7, 13), (7, 13).
-# Why Stratified?
+## Why Stratified?
     Stratified random sampling ensures that each subgroup of a given population is adequately represented 
     within the whole sample population of a research study.
-# About this repo
+## About this repo
 Splitting Dataset for k fold cross validation from scratch using NumPy and Python.
